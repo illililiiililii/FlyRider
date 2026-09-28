@@ -1,0 +1,19 @@
+# Connectome 데이터
+neurons.csv
+connections_princeton.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# AI 모델 / 학습 결과
+*.npz
+*.log
+
+# Wall AI
+wall_ai_labels.json
+wall_ai_model.npz
+
+# 기타
+.vscode/
+.idea/
