@@ -1,0 +1,42 @@
+# Connectome 데이터
+neurons.csv
+connections_princeton.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# AI 모델 / 학습 결과
+*.npz
+*.log
+*.pt
+captures/
+ai_traing/data/state_ai/images/
+ai_traing/data/state_ai/labels/
+ai_traing/data/state_ai/inbox/
+ai_traing/data/state_ai/dataset/
+ai_traing/data/state_ai/dataset.yaml
+ai_traing/data/state_ai/models/
+data/state_ai/images/
+data/state_ai/state_ai_labels.json
+data/flyrider_overnight_log.jsonl
+data/flyrider_config.json
+data/flyrider_ui.json
+data/flyrider_rescue_mode.json
+data/flyrider_*request
+data/best.pt
+data/state_object_best.pt
+data/flyrider_brain.json
+data/flyrider_connectome_learning*.json
+data/flyrider_connectome_cache*.npz
+
+# 깃헙 업로드
+github_reset_upload.bat
+
+# Wall AI
+wall_ai_labels.json
+wall_ai_model.npz
+
+# 기타
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+# FlyRider runtime and AI dependencies
+# Python 3.10+ recommended (Ultralytics/PyTorch support varies by Python version).
+
+numpy
+opencv-python
+mss
+Pillow
+pandas
+scipy
+ultralytics
+pyvjoy
